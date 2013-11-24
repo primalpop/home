@@ -1,0 +1,24 @@
+title:            Basically Speaking
+description:      One mistake at a time
+url:              primal.pw
+signoff:          Primal.
+disqus_shortname: primux
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: UA-32893820-1
+
+links:
+  - name:         About
+    url:          /about
+  - name:         resume
+    url:          /resume.html
+  - name:         Email
+    url:          mailto:primal.pappachan@gmail.com
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/primalpop
+    external:     true
+pygments:         true
+permalink:        pretty
+markdown:         rdiscount
+rdiscount:
+  extensions:     [smart]
