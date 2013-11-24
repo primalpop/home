@@ -4,7 +4,6 @@ url:              primal.pw
 signoff:          Primal.
 disqus_shortname: primux
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: UA-32893820-1
 
 links:
   - name:         About
